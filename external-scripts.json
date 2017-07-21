@@ -17,5 +17,8 @@
   "hubot-fliptable",
   "hubot-qr",
   "hubot-bikeshed",
-  "hubot-browserstack"
+  "hubot-browserstack",
+  "hubot-seriouslyguys",
+  "hubot-dogeme",
+  "hubot-what-the-fox"
 ]

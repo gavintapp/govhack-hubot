@@ -5,6 +5,8 @@
   "author": "gavintapp <gavin@solonode.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "coffeescript": "^1.12.7",
+    "format": "^0.2.2",
     "hubot": "^2.19.0",
     "hubot-bikeshed": "^1.1.0",
     "hubot-browserstack": "^0.1.6",

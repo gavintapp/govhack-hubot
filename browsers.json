@@ -2,6 +2,6 @@
   {"os":"ios","os_version":"9.1","browser":"iphone","device":"iPhone 6S","browser_version":null},
   {"os":"ios","os_version":"9.1","browser":"ipad","device":"iPad Air 2","browser_version":null},
   {"os":"Windows","os_version":"10","browser":"edge","device":null,"browser_version":"14.0"},
-  {"os":"OS X","os_version":"Sierra","browser":"chrome","device":null,"browser_version":"59.0"},
-  {"os":"OS X","os_version":"Sierra","browser":"safari","device":null,"browser_version":"10.1"}
+  {"os":"OS X","os_version":"El Capitan","browser":"chrome","device":null,"browser_version":"59.0"},
+  {"os":"OS X","os_version":"El Capitan","browser":"safari","device":null,"browser_version":"10.1"}
 ]

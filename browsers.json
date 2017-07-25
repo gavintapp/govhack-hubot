@@ -1,41 +1,51 @@
 [
 
-
-
-
-
-
-
   {
 
-    "device": "Samsung Galaxy S III",
+    "device": "iPhone 6 Plus",
+    "browser": "Safari",
+
+    "os_version": "8.3",
+    "os": "ios"
+  },
+  {
+
+    "device": "iPad Air",
+    "browser": "Safari",
+
+    "os_version": "8.3",
+    "os": "ios"
+  },
+  {
+
+    "device": "Samsung Galaxy S5",
     "browser": "Android Browser",
 
-    "os_version": "4.1",
+    "os_version": "4.4",
     "os": "android"
   },
   {
 
-    "device": "Samsung Galaxy Tab 2 10.1",
+    "device": "Samsung Galaxy Tab 4 10.1",
     "browser": "Android Browser",
 
-    "os_version": "4.0",
+    "os_version": "4.4",
     "os": "android"
   },
   {
 
 
     "browser": "ie",
-    "browser_version": "9.0",
-    "os_version": "7",
+    "browser_version": "11.0",
+    "os_version": "10",
     "os": "Windows"
   },
   {
 
 
-    "browser": "ie",
-    "browser_version": "10.0",
-    "os_version": "7",
+    "browser": "Edge",
+    "browser_version": "14",
+    "os_version": "10",
     "os": "Windows"
   },
   {
@@ -50,32 +60,24 @@
 
 
     "browser": "firefox",
-    "browser_version": "25.0",
-    "os_version": "7",
+    "browser_version": "45.0",
+    "os_version": "10",
     "os": "Windows"
   },
   {
 
 
     "browser": "chrome",
-    "browser_version": "31.0",
-    "os_version": "7",
-    "os": "Windows"
-  },
-  {
-
-
-    "browser": "ie",
-    "browser_version": "11.0 Desktop",
-    "os_version": "8.1",
-    "os": "Windows"
+    "browser_version": "50.0",
+    "os_version": "El Capitan",
+    "os": "OSX"
   },
   {
 
 
     "browser": "safari",
-    "browser_version": "7.0",
-    "os_version": "Mavericks",
+    "browser_version": "9.1",
+    "os_version": "El Capitan",
     "os": "OS X"
   }
 ]

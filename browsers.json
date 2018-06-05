@@ -1,10 +1,10 @@
 [
   {
     "os":"OS X",
-    "os_version":"El Capitan",
+    "os_version":"High Sierra",
     "browser":"chrome",
     "device":null,
-    "browser_version":"50.0"
+    "browser_version":"66.0"
   },
    {
     "os":"Windows",

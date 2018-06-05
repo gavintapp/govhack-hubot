@@ -1,9 +1,9 @@
 [
   {
     "os" : "OS X",
-    "os_version" : "High Sierra",
+    "os_version" : "Sierra",
     "browserName" : "Chrome",
-    "browser_version" : "66.0"
+    "browser_version" : "60.0"
   },
    {
     "os":"Windows",
